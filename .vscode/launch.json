@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Xadrez_C++",
+            "request": "attach",
+            "projectID": "d18fa6f7-6d57-4611-a8db-dfdbefd599f5"
+        }
+    ]
+}
